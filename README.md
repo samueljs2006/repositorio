@@ -3,6 +3,6 @@
 este es mi repositorio
 
 
-[rafel alberti] (https://iesrafaelalberti.es/)
+[] (https://iesrafaelalberti.es/)
 
 
